@@ -6,6 +6,10 @@ Stable tag: trunk
 
 Test Plugin
 
+== Change Log ==
+
+Changelog is preferred.
+
 == Upgrade Notice ==
 
 = 1.0.1f =
