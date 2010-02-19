@@ -8,13 +8,17 @@ Test Plugin
 
 == Description ==
 
-http://www.youtube.com/watch?v=Glny4jSciVI&feature=topvideos
-
-http://vimeo.com/173714
-
-[wpvideo OO4thna8]
-
 `[wpvideo OO4thna8]`
+
+bob http://vimeo.com/173714 bob
+bob
+http://vimeo.com/173714
+bob
+
+bob [wpvideo OO4thna8] bob
+
+bob `[wpvideo OO4thna8]` bob
+
 
 == Change Log ==
 
