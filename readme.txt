@@ -6,6 +6,10 @@ Stable tag: trunk
 
 Test Plugin
 
+== Description ==
+
+http://www.youtube.com/watch?v=Glny4jSciVI&feature=topvideos
+
 == Change Log ==
 
 Changelog is preferred.
