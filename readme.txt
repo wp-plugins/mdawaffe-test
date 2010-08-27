@@ -10,16 +10,7 @@ Test Plugin
 
 == Description ==
 
-`[wpvideo OO4thna8]`
-
-bob http://vimeo.com/173714 bob
-bob
-http://vimeo.com/173714
-bob
-
-bob [wpvideo OO4thna8] bob
-
-bob `[wpvideo OO4thna8]` bob
+Updates should be working.  Are they?
 
 == Support ==
 
