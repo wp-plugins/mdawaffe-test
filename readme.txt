@@ -3,7 +3,7 @@ Contributors: mdawaffe
 Tags: qwmqbjw
 Requires at least: 2.6
 Tested up to: 2.7.1
-Stable tag: 1.1
+Stable tag: 1.2
 Support Link: http://example.com/
 
 Test Plugin
