@@ -3,7 +3,7 @@ Contributors: mdawaffe
 Tags: qwmqbjw
 Requires at least: 2.6
 Tested up to: 2.7.1
-Stable tag: 1.3
+Stable tag: trunk/plugin
 Support Link: http://example.com/
 
 Test Plugin
@@ -16,6 +16,9 @@ Updates should be working.  Are they?
 
 I'm mdawaffe, and I approve this message.
 
+== Screenshots ==
+
+1. Me.
 
 == Change Log ==
 
